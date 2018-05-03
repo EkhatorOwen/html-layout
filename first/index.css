@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-bar
+{
+    height: 10vh;
+    background-color: rgb(68, 65, 65);
+}
+.main-body
+{
+    display: table;
+    height: 80vh;
+    width: 100%;
+}
+.first-element
+{
+    display: table-cell;
+    height: 80vh;
+    width: 20%;
+    background-color: rgb(212, 209, 209)
+}
+.second-element
+{
+
+    display: table-cell;
+    height: 80vh;
+    width: 60%;
+    background-color: rgb(247, 240, 240);
+    padding-top: 70%;
+}
+.third-element
+{
+    display: table-cell;
+    height: 80vh;
+    width: 20%;
+    background-color: rgb(212, 209, 209);
+}
+.footer
+{
+    background-color: black;
+    height: 20vh;
+}
